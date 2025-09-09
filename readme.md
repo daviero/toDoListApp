@@ -13,7 +13,7 @@ L’utente può aggiungere, visualizzare ed eliminare eventi tramite un menu int
 
 
 ## 🛠️ Requisiti
-- [Java 17+](https://adoptium.net/) (o compatibile)
+- [Java 17+] (o compatibile)
 
 ## ▶️ Come eseguire
 1. Clona la repository:
