@@ -18,6 +18,8 @@ public class Main {
             System.out.println("2. Mostra eventi");
             System.out.println("3. Elimina evento");
             System.out.println("4. Esci");
+            System.out.println("5. Modifica evento");
+            System.out.println("6. Visualizza tutti gli eventi");
             System.out.print("Scelta: ");
 
             int scelta = scanner.nextInt();
